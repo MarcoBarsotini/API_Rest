@@ -1,0 +1,16 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "Desenvolvida em JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Barsotini & Heloísa Coletti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.2.4"
+  }
+}
